@@ -1,2 +1,2 @@
 # Web-Features
-A set of webFeatures for practicing and learning.
+A set of Web Features for practicing and learning.
