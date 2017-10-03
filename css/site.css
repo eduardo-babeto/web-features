@@ -15,7 +15,7 @@ nav ul {
 
 nav ul li {
 	display:				inline-block;
-	padding:				12px 7%;
+	padding:				12px 3%;
 }
 
 nav ul li a {
@@ -23,8 +23,9 @@ nav ul li a {
 	color:					#ddd;
 }
 
-nav li:hover {
+nav li:hover, .active {
 	background-color:		#555;
 	//color:					#000;	
 }
+
 
