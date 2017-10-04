@@ -15,7 +15,8 @@ nav ul {
 
 nav ul li {
 	display:				inline-block;
-	padding:				12px 3%;
+	padding:				15px 3%;
+	font-size:				1.1em;
 }
 
 nav ul li a {
@@ -28,4 +29,16 @@ nav li:hover, .active {
 	//color:					#000;	
 }
 
+@media screen and (max-width: 503px) {
+	nav ul li {
+		display:			block;		
+		text-align:			center;
+		padding:			18px 3%;
+	}
+}
+
+div.features  {
+	padding:				10px;
+	
+}
 
